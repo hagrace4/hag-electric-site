@@ -91,3 +91,27 @@ body {
     justify-content: center;
     
   }
+
+  .welcomeHeader {
+    font-size: 42px;
+    font-weight: 900;
+    color: black;
+    display: flex;
+    justify-content: center;
+    
+  }
+
+  .landingText {
+    font-size: 32px;
+    font-weight: 350;
+    color: black;
+    text-align: center;
+    margin: auto; 
+    padding-bottom: 40px;
+  }
+
+  .headingBar {
+    background-color: rgb(1, 30, 115);
+    height: 15px;
+    width: 100%;
+  }
