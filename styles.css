@@ -97,7 +97,7 @@ body {
     font-weight: 900;
     color: black;
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
     
   }
 
