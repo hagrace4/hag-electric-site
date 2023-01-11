@@ -115,3 +115,16 @@ body {
     height: 15px;
     width: 100%;
   }
+
+  .articleBody {
+    background-color: darkgray;
+  }
+  .articleContainer {
+    color: black;
+    background-color: darkgray;
+
+  }
+  .articleContainer a {
+    color: black;
+    text-decoration: none;
+  }
