@@ -120,11 +120,30 @@ body {
     background-color: darkgray;
   }
   .articleContainer {
+    display: flex;
     color: black;
     background-color: darkgray;
+    justify-content: center;
+    border: 1px solid black;
+    margin: auto;
 
   }
   .articleContainer a {
     color: black;
     text-decoration: none;
   }
+
+  .articleContainer li {
+    list-style-type: none;
+    margin-bottom: 16px;
+    font-size: larger;
+    
+  }
+  .articleContainer li:hover {
+    border-bottom: 2px solid blue;
+    border-top: 2px solid blue;
+    border-left: 2px solid blue;
+    border-right: 2px solid blue;
+  }
+  
+  
